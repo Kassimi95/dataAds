@@ -1,12 +1,12 @@
 {
 	"ADS": {
-	  "banner_id": "admob",
-	 "inter_id": "admob",
-	 "native_id": "admob",
+	  "banner_id": "4135cbcf42b99704",
+	 "inter_id": "fda1f9079c6032e7",
+	 "native_id": "47a9370ca91a5544",
 	 
-	 "banner_type": "admob",
-	 "native_type": "admob",
-	 "inter_type": "admob"
+	 "banner_type": "applovin",
+	 "native_type": "applovin",
+	 "inter_type": "applovin"
 
    }
   }
